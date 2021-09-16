@@ -1,0 +1,16 @@
+*
+{
+  text-transform: none !important;
+}
+
+.v-btn--plain:not(.v-btn--active):not(.v-btn--loading):not(:focus):not(:hover) .v-btn__content {
+  opacity: 1 !important;
+}
+
+.theme--light.v-card > .v-card__text, .theme--light.v-card > .v-card__subtitle {
+  color: rgb(0 0 0) !important;
+}
+
+.atlaz-title {
+  cursor: pointer;
+}
